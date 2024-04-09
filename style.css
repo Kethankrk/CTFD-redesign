@@ -1,5 +1,5 @@
 body {
-  cursor: url("/assets/cursor.png"), pointer;
+  cursor: url("./assets/cursor.png"), pointer;
 }
 
 .gradient-card {
