@@ -1,0 +1,22 @@
+body {
+  cursor: url("/assets/cursor.png"), pointer;
+}
+
+.gradient-card {
+  background-image: linear-gradient(to right, #1ca6ed, #00c302);
+}
+
+.inner-card {
+  background-image: linear-gradient(
+      to right,
+      #1ca6eb44,
+      #1e1a2b16,
+      #1e1a2b16,
+      #00c30244
+    ),
+    linear-gradient(to bottom, #1ca6eb44, #1e1a2b16, #1e1a2b16, #00c30244);
+}
+
+.img-gradient {
+  box-shadow: 0px 0px 250px 97px #046905;
+}
